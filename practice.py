@@ -16,3 +16,4 @@ print("Howdy")
 
 print("Good job")
 print("Everyone is happy now")
+print("Keep that GPA up")
